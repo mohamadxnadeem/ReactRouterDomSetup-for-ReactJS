@@ -1,0 +1,21 @@
+Below are the instructions on how to setup your React Router Dom for your project:
+
+Step 1: install react router dom using the following command:
+    npm install react-router-dom
+
+NB: I have included a demo App.js file to show you what your code should look like.
+    Feel free to copy, paste and edit your code accordingly
+
+Step 2:import the follwing code into your App.js project
+
+import {
+  BrowserRouter as Router,
+  Route,
+  Routes
+
+} from "react-router-dom";
+
+Step 3: Create a folder called screens or pages to store each of the screens you need for your App
+
+Step 4: Go to the App.js File included in this tutorial for a more in detail explanation
+
